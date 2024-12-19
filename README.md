@@ -81,12 +81,7 @@ This project provides a server-side API for user authentication, including user 
    npm install
    ```
 
-4. Create a `.env` file in the root directory and add the following:
-   ```env
-   MONGO_URI=<your-mongodb-uri>
-   JWT_SECRET=<your-secret-key>
-   PORT=5001
-   ```
+
 
 5. Start the server:
    ```bash
